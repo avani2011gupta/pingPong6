@@ -1,0 +1,54 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+    font-family: 'Recursive', sans-serif;
+}
+
+.heading h3
+{
+  display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #restart
+{
+    font-size: 25px;
+}
+
+h4
+{
+    background-color: grey;
+    color: white;
+    line-height: 2;
+}
+
+#canvas 
+{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    height: 602px;
+    width: 702px;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
